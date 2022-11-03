@@ -195,10 +195,11 @@ Hulu = 0
 Peacock = 5
 Netflix = 8
 
+/* 
 Hulu -= 7
 Peacock -= 5
 Netflix -= 7
-
+ */
 
 ///// PROBLEM 9 /////
 /*
